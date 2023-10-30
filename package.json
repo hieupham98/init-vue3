@@ -10,9 +10,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "konva": "^9.2.2",
     "vue": "^3.2.47",
-    "vue-konva": "^3.0.2",
     "vue-router": "^4.1.6",
     "vuex": "^4.0.2"
   },
