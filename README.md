@@ -33,3 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
+This repo for a game app create by vue3 
